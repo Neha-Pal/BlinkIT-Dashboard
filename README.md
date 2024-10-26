@@ -9,6 +9,8 @@ The BlinKIT Dashboard is designed to help stakeholders gain insights into sales 
 - **Average Sales per Item**: 140.99
 - **Total Number of Items**: 9K
 - **Average Rating**: 3.92
+## Dashboard Preview
+![BlinKIT Dashboard](https://github.com/Neha-Pal/BlinkIT-Dashboard/blob/main/BlinKIT-DASHBOARD.png)
 ## Dashboard Sections
 ### 1. Outlet Location Types
 A filter allowing users to view data by:
